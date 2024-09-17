@@ -7,5 +7,8 @@ Route::get('/', function () {
 });
 #for admin post article
 Route::get('/Admin',function(){
-    return view('welcome');
+    return view('articleutility.adminpage');
+});
+Route::get('/Admin/createarticle',function(){
+    return view('articleutility.createArticle');
 });
