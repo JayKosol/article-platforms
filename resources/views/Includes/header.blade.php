@@ -58,6 +58,8 @@
                 <a class="collapse-item" href="utilities-border.html">Borders</a>
                 <a class="collapse-item" href="utilities-animation.html">Animations</a> --}}
                 <a class="collapse-item" href="/Admin/createarticle">Create Article</a>
+                <a class="collapse-item" href="/Admin/authors">All Authors</a>
+                
             </div>
         </div>
     </li>
